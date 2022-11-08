@@ -1,11 +1,12 @@
  function init(){
-//add your javascrip between these two lines of code
- 
+  function eventMessageFunction(){
+   
+   alert("Goodwin Akala Lane:" );
 
 
 
 
 
-
-
+  }
+}
 window.addEventListener('load', init);
