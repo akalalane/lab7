@@ -2,6 +2,7 @@
    function eventMessageFunction(){
      var input=document.getElementById('entryinput');
      var output=document.getElementById('textoutput');
+     result.innerHTML=entry;
      alert('Goodwin Akala Lane: '+entry);
   }
   var button=document.getElementByID('entrybutton');
